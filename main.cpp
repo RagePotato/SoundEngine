@@ -65,7 +65,7 @@ int main(int argc, char* argv[]){
 	PaStream *stream;
 	PaError err;
 	PaStreamParameters outputParameters;
-	
+
 	char inputBuffer[256];
 
 	data->position = 0;
