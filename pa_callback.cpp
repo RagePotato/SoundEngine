@@ -1,6 +1,6 @@
 #include "pa_callback.h"
-#include <sndfile.h>
-#include <portaudio.h>
+//#include <sndfile.h>
+//#include <portaudio.h>
 #include <cmath>
 
 void NormalSpeed(int* cursor, SoundData* data, int theRead){
